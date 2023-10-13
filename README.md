@@ -1,8 +1,6 @@
 ### Hi there 👋 
 ### This is Andris Eka Adi Saputra!
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]([[https://github.com/andriseka](https://drive.google.com/file/d/1VkXBiQzS19BGxaFClnK5acvB-ho0q9an/view?usp=sharing)](https://drive.google.com/file/d/1VkXBiQzS19BGxaFClnK5acvB-ho0q9an/view?usp=sharing))
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andris-eka-4b147722a)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://drive.google.com/file/d/1VkXBiQzS19BGxaFClnK5acvB-ho0q9an/view?usp=sharing)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kuliah0405@gmail.com)
 
 Welcome to my Github page! I am Andris and I am currently completing my Bachelor degree in Informatics Engineering at Nahdlatul Ulama Islamic University Jepara, Central Java, Indonesia !
