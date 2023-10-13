@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### This is Andris Eka Adi Saputra!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]([https://github.com/andriseka](https://drive.google.com/file/d/1VkXBiQzS19BGxaFClnK5acvB-ho0q9an/view?usp=sharing))
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]([[https://github.com/andriseka](https://drive.google.com/file/d/1VkXBiQzS19BGxaFClnK5acvB-ho0q9an/view?usp=sharing)](https://drive.google.com/file/d/1VkXBiQzS19BGxaFClnK5acvB-ho0q9an/view?usp=sharing))
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andris-eka-4b147722a)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kuliah0405@gmail.com)
 
